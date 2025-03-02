@@ -1,6 +1,9 @@
-//profile-title: AVSERVER 🦾🌐
-//profile-update-interval: 8
-//Subscription-Userinfo: upload=0; download=0; total=0; expire=0
+#profile-title: Happ.su
+#profile-title: base64:U3Vic2NyaXB0aW9u
+#profile-update-interval: 1
+#subscription-userinfo: upload=455727941; download=6174315083; total=1073741824000; expire=1671815872
+#support-url: https://t.me/happ_chat
+#profile-web-page-url: https://happ.su
 wireguard://SCsIngjeXq%2FrDDQwWQ9RCTFD4gKwjeEOQHKloixp5kM%3D@188.114.97.133:3854?address=172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128&amp;publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&amp;reserved=0%2C49%2C27#A2 
 wireguard://8PXS7UZdStyw0JL4Z%2Fx%2BiGCTzPJbdi301p60KLq6oEA%3D@188.114.97.133:3854?address=172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128&amp;publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&amp;reserved=249%2C112%2C33#A3
 wireguard://gEA%2Fj9ptiYZ9lJA9%2FO9NLCYBv25IxVynIDCnia4vMlk%3D@188.114.98.87:987?address=172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128&amp;publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&amp;reserved=127%2C248%2C142#A4
